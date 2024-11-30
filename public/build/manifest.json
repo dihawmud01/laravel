@@ -1,0 +1,25 @@
+{
+  "resources/js/Pages/Homepage.tsx": {
+    "file": "assets/Homepage-f1f5f4f7.js",
+    "imports": [
+      "resources/js/app.tsx"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Homepage.tsx"
+  },
+  "resources/js/app.css": {
+    "file": "assets/app-2dc77090.css",
+    "src": "resources/js/app.css"
+  },
+  "resources/js/app.tsx": {
+    "css": [
+      "assets/app-2dc77090.css"
+    ],
+    "dynamicImports": [
+      "resources/js/Pages/Homepage.tsx"
+    ],
+    "file": "assets/app-3aabdfe1.js",
+    "isEntry": true,
+    "src": "resources/js/app.tsx"
+  }
+}
